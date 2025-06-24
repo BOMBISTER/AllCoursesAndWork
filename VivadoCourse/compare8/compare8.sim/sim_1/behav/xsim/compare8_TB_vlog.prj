@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../compare8.srcs/sources_1/new/compare8.sv" \
+"../../../../compare8.srcs/sim_1/new/compare8_TB.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

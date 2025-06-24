@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Factorial Result:  24
+$finish called at time : 75 ns : File "D:/Tasks/CPU_factorial/CPU_factorial.srcs/sim_1/new/CPU_fact_tb.sv" Line 45

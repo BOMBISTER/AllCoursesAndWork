@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Factorial Counter:   4, Factorial Result:   5
+Factorial Counter:   3, Factorial Result:  20
+Factorial Counter:   2, Factorial Result:  60
+Factorial Counter:   1, Factorial Result: 120
+Factorial Counter:   0, Factorial Result: 120
+Factorial Result: 120
+$finish called at time : 165 ns : File "D:/Tasks/processor/processor.srcs/sim_1/new/processor_tb.sv" Line 55

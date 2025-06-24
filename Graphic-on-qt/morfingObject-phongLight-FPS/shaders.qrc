@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>phong_fragment.fsh</file>
+        <file>phong_vertex.vsh</file>
+        <file>phong_fragment_full.fsh</file>
+        <file>phong_vertex_full.vsh</file>
+    </qresource>
+</RCC>

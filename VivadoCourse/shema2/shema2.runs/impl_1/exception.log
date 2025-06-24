@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file D:\Tasks\shema2\shema2.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Разрешение отклонено
