@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>spaceship.obj</file>
-        <file>spaceship.mtl</file>
-    </qresource>
-</RCC>
